@@ -1,0 +1,10 @@
+//let userNames: string[];
+var userNames;
+userNames = ["anis", "rabu", "pinky"];
+console.log(userNames[1]);
+userNames.sort();
+userNames.push("happy");
+console.log(userNames);
+var multipleType;
+multipleType = [12, "MR A", "hello", 23];
+console.log(multipleType[3]);
